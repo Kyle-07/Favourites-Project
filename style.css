@@ -1,0 +1,42 @@
+body{
+    
+    width: 500px;
+    border: 2px solid;
+    padding: 10px;
+    background-color: rgb(255, 255, 255, 0.9);
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 5px 25px 5px;
+    
+}
+
+h1{text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bold;
+color: #003f58;
+letter-spacing: 2px;}
+
+h2{text-align: center;
+color: darkred;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+a{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+ul{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+
+.center{text-align: center;}
+
+
+
+
+
+
+html{background-image: url(img/goldback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a:hover{text-decoration: underline; color: crimson;}
+a{ color: blue; text-decoration: none;}
