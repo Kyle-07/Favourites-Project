@@ -21,7 +21,8 @@ color: darkred;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 
 p{font-family: Verdana, Geneva, Tahoma, sans-serif;}
-a{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+a{font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue; text-decoration: none;}}
+a:hover{text-decoration: underline; color: crimson;}
 ul{font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 
@@ -38,5 +39,3 @@ html{background-image: url(img/goldback.jpg);
     background-size: cover;
 }
 
-a:hover{text-decoration: underline; color: crimson;}
-a{ color: blue; text-decoration: none;}
